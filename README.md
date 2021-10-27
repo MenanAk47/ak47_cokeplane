@@ -1,6 +1,6 @@
 <h1>Coke Plane Mission || GTA 5 Fivem Roleplay Server || ESX Framework</h1>
 <p>Required minumum <span style="color: #339966;">$1</span> of patreon membership. <a href="https://patreon.com/menanak47" target="_blank">Get your membership</a> (if you don't have already)</p>
-<p><strong>Video Showcase:</strong> https://youtu.be/LSVhblAbqVI</p>
+<p><strong>Video Showcase:</strong> <a href="https://youtu.be/LSVhblAbqVI">YouTube</a></p>
 <p><strong>Features:</strong></p>
 <ol>
 <li>Hire a plane by deposit $2000</li>
