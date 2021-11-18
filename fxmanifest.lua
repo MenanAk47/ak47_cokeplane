@@ -1,7 +1,9 @@
 fx_version 'adamant'
 game 'gta5'
-description 'MenanAk47 - Optimized Coke Plane'
-version '1.0'
+name "ak47_cokeplane"
+description "MenanAk47 - Optimized Coke Plane"
+author "MenanAk47 (MenanAk47#3129)"
+version "1.0"
 
 server_scripts {
 	'locales/en.lua',
